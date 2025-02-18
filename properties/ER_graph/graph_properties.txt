@@ -1,0 +1,15 @@
+Number of nodes: 1000
+Number of edges: 4958
+Minimum edge weight: 0.103
+Maximum edge weight: 9.993
+Average edge weight: 5.07
+Graph density: 0.0099
+Number of connected components: 1
+Sizes of connected components: [1000]
+Global clustering coefficient: 0.0046
+Average path length: 8.36322739739776
+Diameter: 24.589000000000002
+Radius: 13.344999999999999
+Degree assortativity: -0.0239
+Edge connectivity: 2
+First eigenvalue: 57.640637
