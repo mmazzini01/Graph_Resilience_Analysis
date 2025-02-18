@@ -1,1 +1,2 @@
-# Graph-Resilience-Analysis
+# Graph Resilience Analysis
+This project aims to investigate how edge failures affect connectivity and node centrality in weighted, undirected networks. We analyze two types of edge failures: one based on edge betweenness and another on edge weights, applying both min-max and sum normalization to determine failure probabilities. The study examines the amount of perturbation in the adjacency matrix and the deformation of node centrality vectors, including degree centrality, Katz centrality, and eigenvector centrality.
